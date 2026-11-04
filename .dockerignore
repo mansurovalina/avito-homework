@@ -5,5 +5,8 @@
 !src/**
 !dags/
 !dags/**
+!infra/
+!infra/source/
+!infra/source/01-load.sh
 **/__pycache__/
 **/.env*
