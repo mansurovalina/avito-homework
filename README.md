@@ -7,7 +7,7 @@
 Нужны Git, работающий Docker Engine и Docker Compose v2. Клонируйте репозиторий и выполняйте все команды из каталога с `compose.yaml`:
 
 ```bash
-git clone git@github.com:mansurovalina/avito-homework.git olist-homework
+git clone git@github.com:mansurovalina/avito-homework.git avito-homework
 cd olist-homework
 cp .env.example .env
 docker compose up -d --build
