@@ -8,7 +8,7 @@
 
 ```bash
 git clone git@github.com:mansurovalina/avito-homework.git avito-homework
-cd olist-homework
+cd avito-homework
 cp .env.example .env
 docker compose up -d --build
 docker compose ps
